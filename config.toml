@@ -14,7 +14,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of Guelph"
   position = "Undergraduate Student"
-  contact = "warehamw@uoguelph.ca"
+  contact = "warehamw@uoguelph.ca | calwareham99@gmail.com"
 
 [[params.affilation]]
   name = "Siegel Astrophysics Group"
@@ -33,20 +33,21 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-	 Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Integer feugiat scelerisque varius morbi enim.
-	  A diam maecenas sed enim ut sem viverra. Orci eu lobortis elementum nibh tellus.
-		Egestas sed sed risus pretium quam vulputate dignissim suspendisse in.
-		Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Condimentum lacinia quis vel eros donec.
+  text="""Hi there! If you've just stumbled across my page, you'll find that it's pretty incomplete at the moment - broken links everywhere!
+  However, this page is **under construction**, and will house information about me and hopefully a small blog, eventually.
+  In the meantime, a little about me; you can check out my CV at the link above, if you'd like!
    """
 [[params.introduction.paragraph]]
-  text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
-	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
-	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
-	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
-	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
+  text=""" I'm currently enrolled in an undergraduate Physics program at the University of Guelph, where I'm trying to learn the foundational skills of being a scientist.
+  I chose physics because I was interested in all branches of science, and I felt that physics was the best place to specialize, if I had to do so. 
+  I've since fallen fully for physics, and want to make physics research my career.
+  I've been lucky enough to have some opportunities to be involved with some research throughout my undergrad, which have even further sparked my interest in scientific research!
   """
 
+[[params.introduction.paragraph]]
+  text=""" Below, you'll find some more information about my (short) academic career. Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
+  Thanks for visiting!
+  """
 [[params.awards]]
 	[[params.awards.award]]
 		name = "James L. Hunt Scholarship"
@@ -68,44 +69,17 @@ timeout=3000
 
 [[params.projects]]
 	[[params.projects.project]]
-		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = "https://ablogpost.com"
-
- [[params.projects.project]]
-		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
+		name = "Kilonova Modelling for Neutron Star Merger Simulations"
+		description  = "Implementing numerical models to predict kilonova light curves due to r-process nucleosynthesis accompanying the output of neutron start collision simulations. Exploring the results of various ejecta models. Working with Prof. Daniel Siegel's group at the University of Guelph and Perimeter Institute."
+		date = "May 2021 - Current"
+		project_page = ""
+		code_link = ""
 		blog_link = ""
 
  [[params.projects.project]]
-		name = "Integer eget aliquet nibh praesent tristique magna"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
+		name = "Processing IR Microscope Data of Accelerated-Aged PEX-a pipe"
+		description  = "Independently planned, built, documented and maintained a Python script for processing over 14,000 infrared spectra on PEX pipes alongside categorical information on samples. Database structure is ideal for streamlining analysis, visualization, and the addition of new data. Worked with Prof. John R. Dutcher's group at the University of Guelph."
+		date = "May 2020 - April 2021"
+		project_page = ""
 		code_link = ""
-		blog_link = "https://ablogpost.com"
-
-[[params.publications]]
-  year="Preprint"
-
-  [[params.publications.paper]]
-    name = "Enim nunc faucibus a pellentesque sit amet porttitor"
-    authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
-    dest  = "Helga Zita Journal"
-    link = "https://mypaperishere.com"
-    code_link = "https://thecoderepo.com"
-    blog_link = "https://myblogaboutit.com"
-
-[[params.publications]]
-  year="2019"
-
-  [[params.publications.paper]]
-		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
-		authors = "Caroll Comes, __Hadi Sinaee__"
-		dest  = "Udo Madhu Journal"
-		link = "https://mypaperishere.com"
-		code_link = "https://thecoderepo.com"
 		blog_link = ""

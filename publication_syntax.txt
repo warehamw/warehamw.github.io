@@ -1,0 +1,21 @@
+[[params.publications]]
+  year="Preprint"
+
+  [[params.publications.paper]]
+    name = "Enim nunc faucibus a pellentesque sit amet porttitor"
+    authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
+    dest  = "Helga Zita Journal"
+    link = "https://mypaperishere.com"
+    code_link = "https://thecoderepo.com"
+    blog_link = "https://myblogaboutit.com"
+
+[[params.publications]]
+  year="2019"
+
+  [[params.publications.paper]]
+		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
+		authors = "Caroll Comes, __Hadi Sinaee__"
+		dest  = "Udo Madhu Journal"
+		link = "https://mypaperishere.com"
+		code_link = "https://thecoderepo.com"
+		blog_link = ""
