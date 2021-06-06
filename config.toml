@@ -8,8 +8,7 @@ timeout=3000
 [params]
   subtitle= "Undergraduate Student"
   interests="Computational Physics, Astrophysics, Physics Education"
-  cv_name= "CV_Callum_Wareham_a.pdf"
-  blog="http://myblog.edu"
+  cv_name= "CV_Callum_Wareham_web.pdf"
 
 [[params.affilation]]
   name = "University of Guelph"
@@ -33,9 +32,7 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""Hi there! If you've just stumbled across my page, you'll find that it's pretty incomplete at the moment - broken links everywhere!
-  However, this page is **under construction**, and will house information about me and hopefully a small blog, eventually.
-  In the meantime, a little about me; you can check out my CV at the link above, if you'd like!
+  text="""Hi there! Thanks for visiting my personal website! Above you'll find a link to my CV, and below you'll find a bit more information about me!
    """
 [[params.introduction.paragraph]]
   text=""" I'm currently enrolled in an undergraduate Physics program at the University of Guelph, where I'm trying to learn the foundational skills of being a scientist.
@@ -45,7 +42,7 @@ timeout=3000
   """
 
 [[params.introduction.paragraph]]
-  text=""" Below, you'll find some more information about my (short) academic career. Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
+  text=""" Below, you'll find some more information about my academic career. Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
   Thanks for visiting!
   """
 [[params.awards]]
@@ -72,9 +69,6 @@ timeout=3000
 		name = "Kilonova Modelling for Neutron Star Merger Simulations"
 		description  = "Implementing numerical models to predict kilonova light curves due to r-process nucleosynthesis accompanying the output of neutron start collision simulations. Exploring the results of various ejecta models. Working with Prof. Daniel Siegel's group at the University of Guelph and Perimeter Institute."
 		date = "May 2021 - Current"
-		project_page = ""
-		code_link = ""
-		blog_link = ""
 
  [[params.projects.project]]
 		name = "Processing IR Microscope Data of Accelerated-Aged PEX-a pipe"
