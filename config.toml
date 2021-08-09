@@ -7,7 +7,7 @@ timeout=3000
 
 [params]
   subtitle= "Undergraduate Student"
-  interests="Computational Physics, Astrophysics, Physics Education"
+  interests="Physics for the Environment, Experimental Physics, Computational Physics"
   cv_name= "CV_Callum_Wareham_web.pdf"
 
 [[params.affilation]]
@@ -36,13 +36,15 @@ timeout=3000
    """
 [[params.introduction.paragraph]]
   text=""" I'm currently enrolled in an undergraduate Physics program at the University of Guelph, where I'm trying to learn the foundational skills of being a scientist.
-  I chose physics because I was interested in all branches of science, and I felt that physics was the best place to specialize, if I had to do so. 
-  I've since fallen fully for physics, and want to make physics research my career.
+  I chose physics because I was interested in all branches of science, and I felt that physics was the best place to specialize since it provides tools for problem solving in all sorts of places. 
+  Now that I have developed these tools, I'd like to apply them to solving some real-world problems through grad school research; hopefully, I'll make this my career.
   I've been lucky enough to have some opportunities to be involved with some research throughout my undergrad, which have even further sparked my interest in scientific research!
   """
 
 [[params.introduction.paragraph]]
-  text=""" Below, you'll find some more information about my academic career. Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
+  text=""" Below, you'll find some more information about my academic career.
+  I'm currently seeking MSc candidate (or accelerated PhD candidate) positions, and I'm open to hearing proposals in a wide variety of fields, and in both experimental and computational physics.
+  Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
   Thanks for visiting!
   """
 [[params.awards]]
