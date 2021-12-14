@@ -43,8 +43,8 @@ timeout=3000
 
 [[params.introduction.paragraph]]
   text=""" Below, you'll find some more information about my academic career.
-  I'm currently seeking MSc candidate (or accelerated PhD candidate) positions, and I'm open to hearing proposals in a wide variety of fields, and in both experimental and computational physics.
-  Please feel free to get in touch with me at my email address above or by sending me a message on LinkedIn.
+  I'm currently seeking MSc candidate positions, and I'm open to hearing proposals in a wide variety of fields, and in both experimental and computational physics.
+  Please feel free to get in touch with me at my email address above.
   Thanks for visiting!
   """
 [[params.awards]]
